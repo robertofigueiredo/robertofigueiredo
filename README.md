@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Roberto Figueiredo</h1>
+<h3 align="center">Backend Engineer focused on Distributed Systems & .NET</h3>
 
-<!--
-**robertofigueiredo/robertofigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Building **scalable and resilient backend systems**
+- 🧠 Focused on **microservices & distributed systems**
+- ⚙️ Strong experience with **asynchronous processing & messaging**
+- 📈 Always optimizing for **performance, observability and reliability**
+- 🧩 Interested in **system design & architecture patterns**
+
+---
+
+## 🧠 Tech Focus
+
+```text
+- Microservices Architecture
+- Event-driven systems
+- Distributed systems
+- Clean Architecture
+- Messaging patterns (RabbitMQ)
+- High concurrency systems
+- API design at scale
