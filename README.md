@@ -36,5 +36,4 @@ Engenheiro de software focado em construir sistemas escaláveis, resilientes e o
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=robertofigueiredo&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robertofigueiredo&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
