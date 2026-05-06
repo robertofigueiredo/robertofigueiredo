@@ -1,7 +1,7 @@
 <h1 align="center">Fala aí 👋, eu sou o Roberto Figueiredo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer;Sistemas+Distribuídos;.NET+Specialist;Event-Driven+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer;Sistemas+Distribuídos;Event-Driven" />
 </p>
 
 <p align="center">
